@@ -33,6 +33,8 @@ Overall purchase rate: **48%**.
  
 - Gender makes almost no difference (49% of women and 47% of men purchased).
 - Income has a weak link: buyers average 57,963 and non-buyers 54,875.
+- <img width="1047" height="632" alt="image" src="https://github.com/user-attachments/assets/b357b112-7f1d-4793-926c-4803b9eacae9" />
+
 ## Conclusion
  
 Bike buyers are most likely middle-aged, single, living close to work, and owning few or no cars. Marketing could focus on these groups, especially in the Pacific region.
